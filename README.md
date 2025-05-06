@@ -9,7 +9,7 @@
 ### 🛠️ Kullandığım Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,c++" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,cpp,react,nextjs,nodejs" alt="tech stack" />
 </p>
 
 ---
