@@ -9,11 +9,10 @@
 
 ### 🚀 Hakkımda
 
-- 🌱 Şu anda öğreniyorum: **TypeScript** & **Rust**
+- 🌱 Şu anda öğreniyorum: **TypeScript** & **JavaScript**
 - 💼 Web teknolojileri ve sistem programlama alanlarında kendimi geliştiriyorum
 - 🎯 Hedefim: Modern frontend projeleri + performanslı CLI araçlar
-- 📬 Bana ulaş: **arda@example.com** (yerine gerçek mailini yaz)
-
+- 📬 Bana ulaş: **ardakocaer2@gmail.com**
 ---
 
 ### 📊 GitHub İstatistiklerim
@@ -34,7 +33,7 @@
   <a href="https://linkedin.com/in/arda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:arda@example.com">
+  <a href="mailto:ardakocaer2@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
