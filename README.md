@@ -26,7 +26,7 @@
 ### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arda&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minideveloper1&show_icons=true&theme=tokyonight" alt="github stats" />
 </p>
 
 
