@@ -1,21 +1,29 @@
-<h1 align="center">Merhaba 👋, ben Arda</h1>
-<h3 align="center">Frontend + Rust geliştiricisi</h3>
+<h1 align="center">👋 Merhaba, ben Arda</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust" alt="Arda's Tech Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Geliştiricisi;Rust+Sever;Açık+Kaynak+Destekçisi;Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
+</p>
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,rust,python,c++" alt="tech stack" />
 </p>
 
 ---
 
 ### 🚀 Hakkımda
 
-- 🌱 Şu anda öğreniyorum: **TypeScript** & **JavaScript**
-- 💼 Web teknolojileri ve sistem programlama alanlarında kendimi geliştiriyorum
-- 🎯 Hedefim: Modern frontend projeleri + performanslı CLI araçlar
-- 📬 Bana ulaş: **ardakocaer2@gmail.com**
+- 👨‍💻 Aktif olarak web & sistem geliştirme ile ilgileniyorum  
+- ⚙️ İlgi alanlarım: **Frontend teknolojileri**, **Rust ile CLI araçlar**, **verimlilik**  
+- 📬 Bana ulaş: **ardakocaer2@gmail.com**  
+- 🌱 Öğreniyorum: **TypeScript**, **Rust**
+
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📈 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arda&show_icons=true&theme=tokyonight" alt="github stats" />
@@ -25,6 +33,7 @@
 ---
 
 ### 🌐 Beni buradan da bulabilirsin
+
 
   <a href="mailto:ardakocaer2@gmail.com">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
