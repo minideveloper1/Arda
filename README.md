@@ -1,7 +1,7 @@
 <h1 align="center">👋 Merhaba, ben Arda</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Gelişen+Bir+Yazılımcı;Frontend+Geliştiricisi;Rust+Sever;Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Gelişen+Bir+Yazılımcı;Frontend+ve+Backend+Geliştiricisi;Rust+Sever;Sürekli+Öğrenen+Bir+Yazılımcı" alt="Typing SVG" />
 </p>
 
 ---
