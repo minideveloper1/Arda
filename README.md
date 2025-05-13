@@ -9,9 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muratpsd/banner-assets/main/cyberpunk-dev-banner.jpg" width="100%" alt="Banner"/>
-  
-
+  <img src="https://raw.githubusercontent.com/muratpsd/banner-assets/main/cyberpunk-dev-banner.jpg" width="100%" alt="Cyberpunk Dev Banner"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/>Hakkımda
