@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/9a3k4yH.png" width="100%" alt="Dark Tech Banner"/>
+  <img src="https://i.imgur.com/Yr1W7vT.jpg" width="100%" alt="Cyberpunk City Banner"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/>Hakkımda
