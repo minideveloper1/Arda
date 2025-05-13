@@ -12,7 +12,7 @@
   <img src="https://i.imgur.com/aGMwPE7.png" width="100%" alt="Banner"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" width="32"/>
  Hakkımda
 
 ```typescript
