@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/ysQHZvX.jpg" width="100%" alt="Banner"/>
   
 
 </div>
