@@ -12,7 +12,7 @@
   <img src="https://i.imgur.com/aGMwPE7.png" width="100%" alt="Banner"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Milky%20Way.png" width="32"/>Hakkımda
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/>Hakkımda
 
 ```typescript
 const arda = {
