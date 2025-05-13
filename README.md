@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/ysQHZvX.jpg" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/muratpsd/banner-assets/main/cyberpunk-dev-banner.jpg" width="100%" alt="Banner"/>
   
 
 </div>
