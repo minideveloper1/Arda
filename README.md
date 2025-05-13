@@ -12,7 +12,8 @@
   <img src="https://i.imgur.com/aGMwPE7.png" width="100%" alt="Banner"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Hakkımda
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" />
+ alt="Rocket" width="25" height="25" /> Hakkımda
 
 ```typescript
 const arda = {
