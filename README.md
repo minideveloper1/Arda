@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/aGMwPE7.png" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Banner"/>
+  
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/>Hakkımda
