@@ -1,10 +1,10 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Merhaba, Ben Arda
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Arda
 
-[![Profil Ziyaretçileri](https://komarev.com/ghpvc/?username=minideveloper1&style=flat-square&color=blueviolet)](https://github.com/minideveloper1)
+[![Profile Views](https://komarev.com/ghpvc/?username=minideveloper1&style=flat-square&color=blueviolet)](https://github.com/minideveloper1)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B5DF7&center=true&vCenter=true&random=false&width=435&lines=Tutkulu+Web+Geli%C5%9Ftiricisi;Frontend+%26+Backend+%C3%9Cstadas%C4%B1;Rust+Sevdalısı+%F0%9F%A6%80;S%C3%BCrekli+%C3%96%C4%9Frenen+ve+Geli%C5%9Fen" alt="Yazı Animasyonu" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6B5DF7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Web+Developer;Frontend+%26+Backend+Expert;Desktop+App+Developer;Continuously+Learning+%26+Growing" alt="Typing Animation" /></a>
 
 </div>
 
@@ -12,26 +12,25 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/> About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="32"/>Hakkımda
-
-```typescript
-const arda = {
-  konum: "Türkiye",
-  uzmanlık: ["Web Geliştirme", "Sistem Geliştirme", "UI/UX"],
-  güncelOdak: "Frontend teknolojileri ve Rust'ta derinleşmek",
-  öğrenmeHedefleri: ["TypeScript'te uzmanlaşmak", "Rust ekosistemini keşfetmek"],
-  hobiler: ["Kodlama", "Yeni teknolojiler keşfetmek", "Problem çözmek"]
+```javascript
+const Arda = {
+  location: "Turkey",
+  expertise: ["Web Development", "Frontend", "Desktop Applications", "UI/UX"],
+  currentFocus: "Modern web technologies and desktop applications",
+  learningGoals: ["Mastering TypeScript", "Advanced Electron applications", "Deepening React ecosystem"],
+  hobbies: ["Coding", "Exploring new technologies", "Problem solving"]
 };
 ```
 
-- 👨‍💻 Web ve sistem geliştirme projelerinde **aktif olarak** çalışıyorum
-- ⚙️ İlgi alanlarım: **Frontend teknolojileri**, **Rust ile CLI araçları**, **Verimlilik**
-- 🌱 Şu an odaklandığım konular: **TypeScript**, **Rust** ve **Modern Web Framework'leri**
-- 💬 Benimle web geliştirme, Rust veya programlama hakkında konuşabilirsiniz
-- 📬 Bana ulaşın: **ardakocaer2@gmail.com**
+- 👨‍💻 **Actively working** on web and **desktop application** development projects
+- ⚙️ My interests: **Frontend technologies**, **Electron Desktop Apps**, **Modern Web Frameworks**, **User Experience**
+- 🌱 Currently focusing on: **TypeScript**, **React**, **JavaScript**, **Electron**
+- 💬 Talk to me about web development, Electron, JavaScript, or programming
+- 📬 Reach me at: **ardakocaer3@gmail.com**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Teknoloji Yığınım
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <div align="center">
   
@@ -42,14 +41,14 @@ const arda = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-### Backend & Programlama
+### Backend & Programming
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Araçlar & Diğer
+### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -57,7 +56,7 @@ const arda = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub İstatistiklerim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minideveloper1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -68,24 +67,23 @@ const arda = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minideveloper1&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Aktivite Grafiği
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minideveloper1&theme=tokyo-night" alt="Contribution Graph" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Başarılarım
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minideveloper1&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophy" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> İletişim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" height="25" /> Contact
 
 <div align="center">
   
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardakocaer2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardakocaer3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minideveloper1)
 
 </div>
@@ -94,24 +92,7 @@ const arda = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/{minideveloper1}/{minideveloper1}/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  
-  ### 💭 Günün Sözü
+  ### 💭 Quote of the Day
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
   
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/minideveloper1/minideveloper1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<!--
-Notlar:
-- "Snake animation" çalışması için GitHub Actions yapılandırması gerekir
-- Kullanıcı adınızı tüm bağlantılarda doğru şekilde değiştirmeyi unutmayın
-- LinkedIn profiliniz yoksa, bağlantıyı güncelleyin veya kaldırın
--->
